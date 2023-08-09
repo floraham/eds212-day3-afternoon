@@ -30,7 +30,11 @@ ringtail_fox <- ringtail + fox
 ## Scalar multiplier 
 100 * ringtail 
 
+
+##This is a dot product 
 ringtail %*% fox 
+
+ringtail %*% fox %*% fox
 
 ```
 
